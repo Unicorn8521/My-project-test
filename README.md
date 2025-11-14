@@ -102,3 +102,5 @@ sudo apt install python3-xlib
 ## 问题反馈
 
 如有任何问题或建议，请在 GitHub 仓库提交 Issue。
+作者邮箱：2742234948@qq.com
+欢迎大家提改进意见，有好的想法可以和作者多多交流哦！
